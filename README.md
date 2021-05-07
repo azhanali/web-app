@@ -72,7 +72,7 @@ Social Networking is a web app where one can post your content and chat with fri
 - Then run following Commands :
 ```
 	npm install
-  		npm start
+  	npm start
 ```
 - Now enter following URL in Your Browser Installed On Your PC:
 ```
