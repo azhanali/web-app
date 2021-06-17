@@ -4,6 +4,9 @@
 
 Social Networking is a web app where one can post your content and chat with friends too.
 
+
+## Deployed on Heruko [Click Here](https://let-be-friends.herokuapp.com/)
+
 --------------------------------------------------------------------------------------------------------------
 ## Project Submission Details:
 
